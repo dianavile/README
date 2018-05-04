@@ -1,8 +1,8 @@
 # Everything you need to know about _Front End problemsolving and debugging skills_ by Cameron Pittman from [Udacity.com](http://www.Udacity.com)
-    You can check the source [here:](https://youtu.be/vftSDWcA6to)
+You can check the video [here:](https://youtu.be/vftSDWcA6to)
 
 ## Debugging [Front End] - Tips, Tricks and Advice
-A lot of tips can also be used for other development.
+A lot of tips can also be used for other development (that's why there are these [brackets].
 
 ## Truths of Debugging Any Application
 1. **DON'T PANIC**
