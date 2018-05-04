@@ -1,5 +1,5 @@
 # Everything you need to know about _Front End problemsolving and debugging skills_ by Cameron Pittman from [Udacity.com](http://www.Udacity.com)
-You can check the video [here:](https://youtu.be/vftSDWcA6to)
+You can check the video [here](https://youtu.be/vftSDWcA6to).
 
 ## Debugging [Front End] - Tips, Tricks and Advice
 A lot of tips can also be used for other development (that's why there are these [brackets].
@@ -21,7 +21,7 @@ A lot of tips can also be used for other development (that's why there are these
 2. When testing control flow and I don't have the option for a good debugger, just keep it super simple, throw 1 `console.log` and move it to the next (_Don't keep it there_).
 3. In any JavaScript code you can throw the word debugger so it will pauze/executing (in dev tools) that code on that line and you'll be given the sources panel/tab Wich will let you inspect the variables and call stack at that point (this way you can learn better how and why).
 4. Use VScode + extensions! They are the best way for easy fast and simple workflow.
-5. When you're totally stuck.. [at +/-22 min](https://www.youtube.com/watch?v=vftSDWcA6to&feature=youtu.be)
+5. When you're totally stuck.. ([at +/-22 min](https://www.youtube.com/watch?v=vftSDWcA6to&feature=youtu.be))
     - Take a break! Sleep on it!
     - Talk it out. In detail, explain to someone why the bug might be X or why it couldn't possibly be Y.
     - Work forwards and backwards - ensure the control flow before and after where your bug might be is working correctly.
