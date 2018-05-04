@@ -38,3 +38,6 @@ A lot of tips can also be used for other development.
 3. How should I write unit tests for my code?
     - Unit tests: (and this an awnser for a lot of questions) **_"There is no wrong or right approach, there are a lot of different mindsets."_** Any kind of unit test is better then no unit test. Don't wait until you need to test!
     The trick there _**if you wan't to make your life easier then setting up your test is the first thing you should do when you start a project!**_
+
+
+    ended at 30 minutes https://www.youtube.com/watch?v=vftSDWcA6to&feature=youtu.beg
